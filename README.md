@@ -11,5 +11,5 @@ Let's take a look at the posterior weights, tracked during training (for each of
 
 Comparing prior with posterior weights (posterior weight are in orange):
 
-![image](/image/posterior_prior.jpg)
+![image](/images/posterior_prior.jpg)
 
