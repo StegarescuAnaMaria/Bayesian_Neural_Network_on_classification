@@ -6,4 +6,6 @@ For the first task, I buit a simple network with one hidden layer.
 
 Let's take a look at the posterior weights, tracked during training (for each of the 3 layers, 2 nodes each layer):
 
+![image](/images/posterior_w.jpg)
+
 
