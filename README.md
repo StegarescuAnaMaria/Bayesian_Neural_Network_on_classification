@@ -9,7 +9,7 @@ Let's take a look at the posterior weights, tracked during training (for each of
 ![image](/images/posterior_w.jpg)
 
 
-Comparing prior with posterior weights (posterior weights are in orange):
+Comparing prior with posterior weights (posterior weights are in blue):
 
 ![image](/images/posterior_prior.jpg)
 
